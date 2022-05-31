@@ -1,2 +1,2 @@
 # Xiaodianshi
-基于esp8266的小电视
+基于esp8266的太空人时钟
